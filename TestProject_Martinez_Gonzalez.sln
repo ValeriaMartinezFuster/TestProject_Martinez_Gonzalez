@@ -11,6 +11,7 @@ Global
 		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
+		Description = Ejercicio_3
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{785EACC5-89AA-44A6-B7D4-37ADF2F8FDDB}.Debug|x64.ActiveCfg = Debug|x64
